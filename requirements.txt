@@ -1,0 +1,6 @@
+pandas
+pyarrow
+sqlalchemy
+click
+google-auth-oauthlib
+pandas-gbq
